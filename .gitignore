@@ -3,6 +3,11 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
-/src/Page/index.html
-/src/Page/WifiConfig.html
-/src/styles/style.css
+src/Page/index.html
+src/Page/WifiConfig.html
+src/Page/WifiConnected.html
+src/Page/WifiDisconnected.html
+src/styles/style.css
+src/styles/WifiConfig.css
+src/js/scripts.js
+
