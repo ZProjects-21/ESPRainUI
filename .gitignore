@@ -10,4 +10,5 @@ src/Page/WifiDisconnected.html
 src/styles/style.css
 src/styles/WifiConfig.css
 src/js/scripts.js
+.vscode/extensions.json
 
