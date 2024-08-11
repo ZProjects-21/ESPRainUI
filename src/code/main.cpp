@@ -29,7 +29,7 @@ void setup(){
   
   WiFi.softAPConfig(localIP, Gateway, subnet);
 
-  if (!MDNS.begin("Rainhome"))
+  if (!MDNS.begin("rainhome"))
   {
     Serial.println("can't start mDNS");
   }
